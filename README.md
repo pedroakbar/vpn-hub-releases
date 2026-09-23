@@ -20,8 +20,8 @@ minutos). Não é preciso instalar mais nada: Colima, Lima e Docker vêm dentro 
 ## Atualizações
 
 O app procura versões novas sozinho (ao abrir e a cada 6 horas), baixa e instala quando você fecha o app,
-ou na hora, em **Reiniciar e atualizar**. Também pelo menu **VPN Hub › Verificar atualizações…**. As VPNs
-continuam ligadas durante a troca.
+ou na hora, em **Reiniciar** no aviso da barra lateral. Também pelo menu **Hub**, na barra do app, ou por
+**VPN Hub › Verificar atualizações…**. As VPNs continuam ligadas durante a troca.
 
 Cada versão traz um `atualizacao.json` assinado; o app só instala o pacote cuja assinatura e SHA-256
 conferem.
